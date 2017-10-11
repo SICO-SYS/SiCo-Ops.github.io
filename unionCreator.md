@@ -38,3 +38,6 @@ permalink: /join-in
 
 &nbsp;
 ##### 由于现在本身还有贷款需要偿还，如果你喜欢这个项目，也可以选择打赏1美刀至[PayPal](https://paypal.me/sinerwr/1)
+
+&nbsp;
+#### ![支付宝](https://s3.amazonaws.com/sico-ops/donate.JPG)
