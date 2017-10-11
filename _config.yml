@@ -5,8 +5,13 @@ email: sinerwr@gmail.com
 baseurl: 
 url: "https://docs.sico.io"
 favicon: /favicon.png
+
+timezone: Asia/Shanghai
+future: false
+
 permalink: /:year/:month/:day/:title
 markdown: kramdown
+
 
 github_username: SiCo-Ops
 github_repo: SiCo

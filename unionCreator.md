@@ -1,7 +1,7 @@
 ---
 title: Join In
 layout: page
-permerlink: /join-in
+permalink: /join-in
 ---
 ##### 废话不多说，[introduce click me](https://github.com/sico-ops/sico)
 
