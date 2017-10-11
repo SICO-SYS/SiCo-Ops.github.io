@@ -1,1 +1,22 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: SiCo
+description: API Documentation 
+email: sinerwr@gmail.com
+baseurl: 
+url: "https://docs.sico.io"
+favicon: /favicon.png
+permalink: /:year/:month/:day/:title
+markdown: kramdown
+
+github_username: SiCo-Ops
+github_repo: SiCo
+
+disqus_short_name: sinerwr
+disqus_show_comment_count: true
+
+#Can be used for multiple author blogs ! Add name to post For more visit the sample
+authors:
+  SiCo:
+    display_name: SiCo
+    email: sinerwr@gmail.com
+    github: SiCo-Ops
