@@ -1,5 +1,4 @@
 ---
-title: Join In
 layout: page
 permalink: /join-in-old
 ---
